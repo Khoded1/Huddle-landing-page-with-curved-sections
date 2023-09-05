@@ -1,0 +1,149 @@
+@media screen and (max-width: 450px) {
+	body {
+		font-size: 15px;
+	}
+	.header {
+		padding: 2rem 2rem;
+		margin-bottom: 5rem;
+	}
+	.logo {
+		width: 30%;
+	}
+	.header-link {
+		padding: 0.35rem 0.5rem;
+		font-size: 10px;
+	}
+	.big-title {
+		font-size: 2rem;
+		text-align: center;
+	}
+	.paragraph br {
+		display: none;
+	}
+	.paragraph {
+		font-size: 1rem;
+		margin-bottom: 3rem;
+	}
+	.button {
+		padding: 1rem 3rem;
+		font-size: 0.5rem;
+	}
+	.hero-image {
+		width: 100%;
+	}
+	.media-rating {
+		flex-direction: column;
+		gap: 5rem;
+	}
+	.communication-con {
+		grid-template-columns: 1fr;
+		gap: 2rem;
+	}
+	.topics {
+		text-align: center;
+		font-size: 1.5rem;
+		margin-top: 1.5rem;
+	}
+	.discussion {
+		text-align: center;
+	}
+	.discussion br {
+		display: none;
+	}
+	.communication-image {
+		width: 100%;
+		grid-row: 1;
+	}
+	.flow-communities {
+		grid-template-columns: 1fr;
+	}
+	.cta_header {
+		text-align: center;
+	}
+	.about {
+		grid-template-columns: 1fr;
+		padding: 0 2rem;
+	}
+	.footer_form {
+		grid-row: 1;
+	}
+	.newsletter__text {
+		font-size: 1.1rem;
+	}
+	.newsletter__text br {
+		display: none;
+	}
+	.newsletter_form-box {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+	}
+	.newsletter_email {
+		padding: 1rem;
+		width: 100%;
+		margin-bottom: 1rem;
+	}
+	.subcribe_btn {
+		width: 50%;
+	}
+	.footer-flex {
+		margin-top: 5rem;
+	}
+	.footer_text {
+		font-size: 1rem;
+		margin-bottom: 3rem;
+	}
+}
+@media screen and (max-width: 450px) {
+	.header {
+		padding: 2rem 1rem;
+		margin-bottom: 4rem;
+	}
+	.logo {
+		width: 30%;
+	}
+	.header-link {
+		padding: 0.35rem 0.5rem;
+		font-size: 8px;
+	}
+	.hero-section {
+		padding: 0 2rem;
+	}
+	.big-title {
+		font-size: 1.8rem;
+		text-align: center;
+	}
+	.paragraph br {
+		display: none;
+	}
+	.paragraph {
+		font-size: 0.9rem;
+		margin-bottom: 3rem;
+	}
+	.button {
+		padding: 1rem 3rem;
+		font-size: 0.5rem;
+	}
+	.hero-image {
+		width: 100%;
+	}
+	.communication-con {
+		padding: 9rem 1rem;
+	}
+	.communication-image {
+		width: 100%;
+	}
+	.communities-section-2 {
+		margin-top: 5rem;
+	}
+	.topics {
+		font-size: 1.3rem;
+	}
+
+	.discussion {
+		font-size: 1rem;
+	}
+	.cta_header {
+		font-size: 1rem;
+	}
+}
